@@ -1,0 +1,92 @@
+Changelog for clamtk-kde
+------------------------
+
+0.18:   XX XXX 2016
+-------------------
+
+0.17:   27 Aug 2016
+-------------------
+        * Update to KDE 5 (Github #62)
+        * Update man pages with correct bug-reporting URL
+        * Updated strings: Romanian (ro), English (en_AU),
+          Italian (it), Korean (ko_KR)
+
+0.16:   15 Mar 2014
+-------------------
+        * Cleaned up desktop file - things like removing
+          deprecated Encoding line from desktop file.
+        * Updated strings: Dutch (nl), Czech (cs), Punjabi (pa),
+          Serbian Latin (sr@latin), Marathi (mr), Brazilian
+          Portuguese (pt_BR), Portuguese (pt), French (fr),
+          Malay (ms), probably others
+        * Update years -> 2014.
+
+0.15:   10 Nov 2013
+-------------------
+        * All files updated, including Requires to kde-filesystem.
+
+0.14:
+-------------------
+	* Added Dutch (nl_BE) and Greek (el_GR) language support.
+	* Updated .desktop file.
+	* Updated rpm file.
+
+0.13:
+-------------------
+	* Added Turkish (tr_TR) language file.
+
+0.12:
+-------------------
+	* Added Slovak (sk_SK) language file.
+
+0.11:
+-------------------
+	* Added Japanese (ja_JP) language file.
+
+0.10:
+-------------------
+	* Added Dutch (nl_NL) language file.
+
+0.09:
+-------------------
+	* Added Romanian (ro_RO) to the .desktop file.
+
+0.08:
+-------------------
+	* Added Slovene (sl_SI) to the .desktop file.
+
+0.07:
+-------------------
+	* Added Galician (gl_ES) to the .desktop file.
+
+0.06:
+-------------------
+	* Added Swedish to the .desktop file.
+
+0.05:
+-------------------
+	* Added Czech to the .desktop file and fixed formatting.
+	* Added new ClamTk logo image.
+
+0.04:
+-------------------
+	* Added several translations to the .desktop file.
+
+0.03:
+-------------------
+	* Added Danish and Italian to the .desktop file.
+	* The .deb was returned to "all", as opposed to i386.
+	* Minor fix in the .spec file.
+
+0.02:
+-------------------
+	* Language support was added.
+	* The .desktop entry file was improved.
+	* The rpm .spec file was cleaned up. The rpm should work for
+	  FC3, FC4, and FC5.
+	* The rpm is now noarch.
+	* Added a manpage.
+
+0.01:
+-------------------
+	* Initial release.
