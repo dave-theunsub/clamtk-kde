@@ -40,12 +40,12 @@ To manually install it:
 Ensure ClamTk is installed. You'll need version 4.00 or newer,
 but you should run at least the 5.xx series by now.
 
-Copy the clamtk-kde.desktop file to the services folder. For example:
-For KDE 4:
-`cp clamtk-kde.desktop /usr/share/kde4/services/`
-For KDE 5:
-`cp clamtk-kde.desktop /usr/share/kservices5/ServiceMenus/`
-You will need to have root privileges for that step.
+Copy the clamtk-kde.desktop file to the services folder. For example:  
+For KDE 4:  
+`cp clamtk-kde.desktop /usr/share/kde4/services/`  
+For KDE 5:  
+`cp clamtk-kde.desktop /usr/share/kservices5/ServiceMenus/`  
+You will need to have root privileges for that step.  
 
 DEPENDENCIES
 ------------
