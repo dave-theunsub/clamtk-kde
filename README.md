@@ -56,13 +56,13 @@ clamtk >= 5.00
 LINKS
 -----
 
-https://github.com/dave-theunsub/clamtk/
-https://bitbucket.org/davem_/clamtk-kde/
-http://dolphin.kde.org
-http://standards.freedesktop.org/desktop-entry-spec/latest/
+https://github.com/dave-theunsub/clamtk/  
+https://bitbucket.org/davem_/clamtk-kde/  
+http://dolphin.kde.org  
+http://standards.freedesktop.org/desktop-entry-spec/latest/  
 
 CONTACT
 -------
 
-email : Dave M, dave.nerd @ gmail.com
+email : Dave M, dave.nerd @ gmail.com  
 0x6ADA59DE
