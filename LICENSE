@@ -1,19 +1,23 @@
 COPYRIGHT AND LICENCE
 
-ClamTk and ClamTk-KDE, copyright (C) 2004-2016 Dave M 
+ClamTk and ClamTk-KDE, copyright (C) 2004-2017 Dave M
 
-https://dave-theunsub.github.io/clamtk/
-https://github.com/dave-theunsub/clamtk-kde/
+### Links
+
+https://github.com/dave-theunsub/clamtk-kde
 https://github.com/dave-theunsub/clamtk/
-https://gitlab.com/dave_m/clamtk
-https://bitbucket.org/dave_theunsub/clamtk-kde
+https://bitbucket.org/davem_/clamtk/
+https://github.com/dave-theunsub/clamtk
+https://bitbucket.org/davem_/clamtk-gnome/
 
-No longer used:
----------------
+### Older links
+
 http://freshmeat.net/projects/clamtk
 http://clamtk.sourceforge.net
 http://code.google.com/p/clamtk/
 <dave.nerd AT gmail.com>
+
+### License
 
 All rights reserved.  This program is free software; you can
 redistribute it and/or modify it under the same terms as Perl itself.
@@ -30,4 +34,4 @@ effective, accurate or reliable
    4. the quality of the software will meet your expectations
 
 Having said that, I do my best to make it as good as I can. Really.
-Dave M <dave.nerd AT gmail.com>
+Dave M <dave.nerd @ gmail>
