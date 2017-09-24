@@ -1,9 +1,13 @@
 Changelog for clamtk-kde
 ------------------------
 
-0.18:   XX XXX 2017
+0.18:   29 Sep 2017
 -------------------
-        * Update links, README.md
+        * Updated links, README.md
+        * Updated strings: Afrikaans (af), Catalan (ca), Basque (eu),
+            Khmer (km), Lithuanian (lt), Punjabi (pa)
+        * Updated man pages (links, etc)
+        * Change compression to xz
 
 0.17:   27 Aug 2016
 -------------------
