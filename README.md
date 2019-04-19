@@ -1,4 +1,4 @@
-This readme file was last updated 23 Sept 2017
+This readme file was last updated 19 Apr 2019
 
 # README for clamtk-kde
 
@@ -20,11 +20,11 @@ There are deb and rpm packages to install this plugin:
 
 #### On Debian based systems (Ubuntu etc)
 
-`sudo apt-get install clamtk-kde`
+`sudo apt install clamtk-kde`
 
 or, if you've already downloaded it:
 
-`sudo dpkg -i clamtk-kde`
+`sudo dpkg -i clamtk-kde_0.18-1_all.deb`
 
 #### On CentOS systems
 
@@ -56,7 +56,7 @@ clamtk >= 5.00
 LINKS
 -----
 
-https://github.com/dave-theunsub/clamtk/  
+https://gitlab.com/dave_m/clamtk-kde  
 https://bitbucket.org/davem_/clamtk-kde/  
 http://dolphin.kde.org  
 http://standards.freedesktop.org/desktop-entry-spec/latest/  
@@ -65,4 +65,4 @@ CONTACT
 -------
 
 email : Dave M, dave.nerd @ gmail.com  
-0x6ADA59DE
+0xF51D19546ADA59DE
