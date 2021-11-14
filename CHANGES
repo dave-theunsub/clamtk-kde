@@ -1,11 +1,13 @@
 Changelog for clamtk-kde
 ------------------------
 
-0.19:   19 Apr 2019
+0.19:   14 Nov 2021
 -------------------
-    * Update various files with new Launchpad license information.
-    * Update years -> 2019.
-    * Updated strings:
+    * Update various files with new Launchpad license information
+    * Update years -> 2021
+    * Update desktop file Type field information. (Launchpad #1885623)
+    * Update mimetypes to all files and directories
+    * Updated strings: Dutch (nl), Afrikaans (af)
 
 0.18:   29 Sep 2017
 -------------------

@@ -1,16 +1,10 @@
-This readme file was last updated 19 Apr 2019
+This readme file was last updated 14 Nov 2021.
 
 # README for clamtk-kde
 
-clamtk-kde is a simple plugin to allow a right-click,
-context menu scan of files or folders in Dolphin,
-a file manager in KDE.
+clamtk-kde is a simple plugin to allow a right-click, context menu scan of files or folders in Dolphin, a file manager in KDE.
 
-All this plugin does is copy a desktop file to a
-directory.  If this seems redundant, that's because it is:
-this plugin depends on clamtk, which already has this directory
-file. So, it stands to reason we should be able to just find that
-file and copy it, rather than having our own copy.
+All this plugin does is copy a desktop file to a directory.  If this seems redundant, that's because it is: this plugin depends on clamtk, which already has this desktop file. So, it stands to reason we should be able to just find that file and copy it, rather than having our own copy.
 
 ## Installation
 
@@ -18,27 +12,29 @@ file and copy it, rather than having our own copy.
 
 There are deb and rpm packages to install this plugin:
 
-#### On Debian based systems (Ubuntu etc)
+#### On Debian based systems (Ubuntu, etc)
 
 `sudo apt install clamtk-kde`
 
 or, if you've already downloaded it:
 
-`sudo dpkg -i clamtk-kde_0.18-1_all.deb`
+`sudo dpkg -i clamtk-kde_0.19-1_all.deb`
 
 #### On CentOS systems
 
-`yum install clamtk-kde-0.18-1.fc.noarch.rpm`
+`yum install clamtk-kde-0.19-1.fc35.noarch.rpm`
+
 
 #### On Fedora systems
 
-`dnf install clamtk-kde-0.18-1.fc.noarch.rpm`
+`dnf install clamtk-kde-0.19-1.fc35.noarch.rpm`
 
 ### Manual installation
 
-To manually install it:
-Ensure ClamTk is installed. You'll need version 4.00 or newer,
-but you should run at least the 5.xx series by now.
+To manually install it:  
+
+Ensure ClamTk is installed. You'll need version 5.00 or newer,
+but you should run at least the 6.xx series by now.
 
 Copy the clamtk-kde.desktop file to the services folder. For example:  
 For KDE 4:  
@@ -50,19 +46,19 @@ You will need to have root privileges for that step.
 DEPENDENCIES
 ------------
 
-clamtk >= 5.00
-(KDE4) kde-filesystem or (KDE5) kf5-filesystem
+clamtk >= 5.00 (but you should be using >= 6.00)  
+(KDE4) kde-filesystem or (KDE5) kf5-filesystem  
 
 LINKS
 -----
 
+https://github.com/dave-theunsub/clamtk-kde
 https://gitlab.com/dave_m/clamtk-kde  
-https://bitbucket.org/davem_/clamtk-kde/  
 http://dolphin.kde.org  
 http://standards.freedesktop.org/desktop-entry-spec/latest/  
 
 CONTACT
 -------
 
-email : Dave M, dave.nerd @ gmail.com  
+email : Dave M <dave.nerd@gmail.com>  
 0xF51D19546ADA59DE

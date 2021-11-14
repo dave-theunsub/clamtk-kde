@@ -1,20 +1,13 @@
 COPYRIGHT AND LICENCE
 
-clamtk and clamtk-kde, copyright (C) 2004-2019 Dave M
+clamtk and clamtk-kde, copyright (C) 2004-2021 Dave M
 
 ### Links
 
-https://gitlab.com/dave_m/clamtk-kde
-https://gitlab.com/dave_m/clamtk/wikis/home
-https://bitbucket.org/davem_/clamtk-gnome/
-
-### Deprecated links
-
-http://freshmeat.net/projects/clamtk
-http://clamtk.sourceforge.net
-http://code.google.com/p/clamtk/
 https://github.com/dave-theunsub/clamtk-kde
 https://github.com/dave-theunsub/clamtk
+https://gitlab.com/dave_m/clamtk-kde
+https://gitlab.com/dave_m/clamtk/wikis/home
 
 ### License
 
@@ -59,10 +52,7 @@ OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-This software (ClamTk and ClamTk-KDE) is provided 'as is' without warranty
-of any kind, either express or implied, including, but not limited to, the
-implied warranties of fitness for a purpose, or the warranty of
-non-infringement.  Without limiting the foregoing, there is no warranty that:
+This software (both clamtk and clamtk-kde) is provided 'as is' without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of fitness for a purpose, or the warranty of non-infringement.  Without limiting the foregoing, there is no warranty that:
 
    1. the software will meet your requirements
    2. the software will be uninterrupted, timely, secure or error-free
@@ -71,5 +61,6 @@ effective, accurate or reliable
    4. the quality of the software will meet your expectations
 
 Having said that, I do my best to make it as good as I can. Really.
-Dave M <dave.nerd @ gmail>
 
+Dave M <dave.nerd@gmail.com>
+0xF51D19546ADA59DE
