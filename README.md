@@ -1,10 +1,10 @@
-This readme file was last updated 14 Nov 2021.
+This README was last updated 20240102.
 
 # README for clamtk-kde
 
 clamtk-kde is a simple plugin to allow a right-click, context menu scan of files or folders in Dolphin, a file manager in KDE.
 
-All this plugin does is copy a desktop file to a directory.  If this seems redundant, that's because it is: this plugin depends on clamtk, which already has this desktop file. So, it stands to reason we should be able to just find that file and copy it, rather than having our own copy.
+All this plugin does is copy a desktop file to a directory. This makes it easy to scan a file or folder, without opening the virus scanner first and navigating to the file or folder of interest.
 
 ## Installation
 
@@ -12,42 +12,39 @@ All this plugin does is copy a desktop file to a directory.  If this seems redun
 
 There are deb and rpm packages to install this plugin:
 
-#### On Debian based systems (Ubuntu, etc)
+#### On Ubuntu systems
 
-`sudo apt install clamtk-kde`
-
-or, if you've already downloaded it:
-
-`sudo dpkg -i clamtk-kde_0.19-1_all.deb`
+`sudo dpkg -i clamtk-kde_0.20-1_all.deb`
 
 #### On CentOS systems
 
-`yum install clamtk-kde-0.19-1.fc35.noarch.rpm`
+`yum install clamtk-kde-0.20-1.el9.noarch.rpm`
 
+or
+
+`dnf install clamtk-kde-0.20-1.el9.noarch.rpm`
 
 #### On Fedora systems
 
-`dnf install clamtk-kde-0.19-1.fc35.noarch.rpm`
+`dnf install clamtk-kde-0.20-1.fc39.noarch.rpm`
 
 ### Manual installation
 
 To manually install it:  
 
-Ensure ClamTk is installed. You'll need version 5.00 or newer,
-but you should run at least the 6.xx series by now.
+Ensure ClamTk is installed. You will need to have root privileges for this step. Youwill need version 5.00 or newer, but you should use the 6.xx series by now.
 
 Copy the clamtk-kde.desktop file to the services folder. For example:  
 For KDE 4:  
 `cp clamtk-kde.desktop /usr/share/kde4/services/`  
 For KDE 5:  
 `cp clamtk-kde.desktop /usr/share/kservices5/ServiceMenus/`  
-You will need to have root privileges for that step.  
 
 DEPENDENCIES
 ------------
 
 clamtk >= 5.00 (but you should be using >= 6.00)  
-(KDE4) kde-filesystem or (KDE5) kf5-filesystem  
+(KDE 4) kde-filesystem or (KDE 5) kf5-filesystem  
 
 LINKS
 -----
@@ -59,6 +56,5 @@ http://standards.freedesktop.org/desktop-entry-spec/latest/
 
 CONTACT
 -------
-
-email : Dave M <dave.nerd@gmail.com>  
-0xF51D19546ADA59DE
+Dave M, dave.nerd @gmail.com  
+  [0xC81DF0FAC4AFEB22](https://davem.fedorapeople.org/RPM-GPG-KEY-DaveM-20230506)

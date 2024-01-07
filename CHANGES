@@ -1,6 +1,11 @@
 Changelog for clamtk-kde
 ------------------------
 
+0.20:   20240102
+----------------
+    * Update strings in desktop file
+    * Update years -> 2024
+
 0.19:   14 Nov 2021
 -------------------
     * Update various files with new Launchpad license information
