@@ -1,10 +1,14 @@
-This README was last updated 20240102.
+This README was last updated 20240114.
 
 # README for clamtk-kde
 
-clamtk-kde is a simple plugin to allow a right-click, context menu scan of files or folders in Dolphin, a file manager in KDE.
+clamtk-kde adds a context menu item to allow for the ability to right-click
+on a file or folder from within the Konqueror or Dolphin browsers
+to easily scan the selected item for threats.
 
-All this plugin does is copy a desktop file to a directory. This makes it easy to scan a file or folder, without opening the virus scanner first and navigating to the file or folder of interest.
+All this plugin does is copy a desktop file to a directory. This makes it
+easy to scan a file or folder, without opening the virus scanner first and
+navigating to the file or folder of interest.
 
 ## Installation
 
